@@ -163,3 +163,14 @@ font-size: 60px;
     font-size: 20px;
     text-decoration: none;
 }
+
+.iletisim{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.ileti{
+    margin-left: 1050px;
+    margin-top: 330px;
+}
